@@ -20,6 +20,8 @@ Elle intègre des outils pratiques pour la gestion de fichiers, génération de 
 
 # 📂 structure du projet 
 
+```md
+
 Forgeware/
 │
 ├─ go_tools/
@@ -35,7 +37,7 @@ Forgeware/
 │
 ├─ main.go
 └─ README.md
-
+```
 
 dev by 
 # ℕι¢єωαяє
