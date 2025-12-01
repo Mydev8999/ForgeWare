@@ -10,7 +10,7 @@ root.title("Forgeware - Dev Toolbox")
 root.geometry("600x450")
 
 output_box = ctk.CTkTextbox(root, width=580, height=150)
-output_box.pack(pady=10)
+output_box.pack(pady=10) #comment
 
 def run_tool(tool, file_required=True):
     try:
